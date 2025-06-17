@@ -4,10 +4,6 @@ A modern, responsive website designed to showcase digital marketing services and
 
 ## Features
 - Responsive design for all devices
-- Service listings and details
-- Contact form integration
-- SEO-friendly structure
-- Easy customization
 
 ## Technologies Used
 - HTML5, CSS3, JavaScript
@@ -22,3 +18,16 @@ A modern, responsive website designed to showcase digital marketing services and
     '''
     right-click on html file and choose live server to get a preview
     '''
+
+## Screenshots
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
